@@ -4,6 +4,16 @@ Overview
 The Employee Hiring & Workforce Analytics Dashboard provides HR leaders and workforce planners with comprehensive insights into employee hiring trends, workforce composition, separations, and bad-hire analysis.
 
 The dashboard enables organizations to monitor recruitment effectiveness, workforce growth, employee retention, and hiring quality across regions, demographics, and employee groups.
+
+Sreenshots
+<img width="1075" height="597" alt="01_" src="https://github.com/user-attachments/assets/ffeb8e91-d4df-4585-972b-b3913dbfb0a1" />
+<img width="1491" height="813" alt="02" src="https://github.com/user-attachments/assets/90e6a5ac-82b4-4ae8-a5a0-f8e587a3cfe7" />
+<img width="1462" height="821" alt="03" src="https://github.com/user-attachments/assets/5249c4c9-f4a5-4ac6-8c06-5d020a8d42c5" />
+.<img width="666" height="807" alt="04" src="https://github.com/user-attachments/assets/495dbe08-210f-4715-99d1-0eab324e53d0" />
+
+
+
+
 1. New Hire Analysis
 
 Monitor hiring activity across different dimensions:
